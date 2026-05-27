@@ -8,6 +8,4 @@ This notebook is the running reference I built while going through certification
 
 Everything documented here is for authorized security testing, defensive understanding, and educational purposes only. The techniques and code are meant to be used in engagements with explicit written authorization, in personal lab environments, in CTF challenges, or as part of academic and professional certification study. They are not meant for anything else.
 
-Do not use any of this material against systems, networks, or people you are not explicitly authorized to test. Unauthorized access to computer systems is a crime in most jurisdictions. The author and the certification programs whose material is referenced assume no liability for misuse. When a section mentions an OPSEC consideration — only run in an authorized lab, coordinate with the engagement scope, do not exfiltrate other users' data — that is not advisory; that is the bar.
-
-Original course material remains the intellectual property of its respective providers: Hack The Box, OffSec, Altered Security, and Zero-Point Security. The content here paraphrases technique-level tradecraft and does not reproduce verbatim course text.
+Do not use any of this material against systems, networks, or people you are not explicitly authorized to test. Unauthorized access to computer systems is a crime in most jurisdictions. The author assumes no liability for misuse.
