@@ -2,7 +2,7 @@
 
 I'm Wencheng Xue — 18 years old and a freshman at the University of Cincinnati. I picked up OSCE3 at 17, which combines OSWE, OSEP, and OSED — OffSec's triple-expert track covering web application exploitation, evasion-aware penetration testing, and Windows user-mode exploit development. I spend most of my time on offensive security work: red team operations, Active Directory attack tradecraft, web application security, and binary exploitation. CTFs and continuous certification study fill the rest of the time.
 
-This notebook is the running reference I built while going through certification curricula and engagement work. The goal was to keep every technique I've actually used in one place, with the code ready to run after substituting a few values for the target environment. The content draws from six certifications: CPTS and CAPE from Hack The Box, OSCP and OSEP from OffSec, CRTP from Altered Security, and CRTO from Zero-Point Security. CPTS covers broad penetration testing methodology, CAPE goes deep on Active Directory, OSCP teaches the foundations, OSEP adds evasion and stealth in AD environments, CRTP focuses on on-prem AD attack tradecraft, and CRTO covers the full operator workflow including C2 and evasion.
+This notebook is the running reference I built while going through certification curricula and engagement work.
 
 ## Disclaimer
 
