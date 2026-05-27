@@ -1,2 +1,0 @@
-# 07. Application Whitelisting
-
